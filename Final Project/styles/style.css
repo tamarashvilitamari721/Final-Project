@@ -11,7 +11,8 @@
 	font-size: 24px;
 	margin-top: -22px;
 	margin-left: 630px;
-	margin-right: 583px;	
+	margin-right: 583px;
+	cursor: pointer;	
 }
 
 .main-content {
@@ -48,6 +49,7 @@
 	border-radius: 8px;
 	margin-top: 72px;
 	margin-left: 220px;
+	cursor: pointer;
 }
 
 .second {
@@ -139,6 +141,7 @@
 	color: white;
 	margin-left: 167px;
 	margin-top: 20px;
+	cursor: pointer;
 }
 
 .button3 {
@@ -149,6 +152,7 @@
 	color: white;
 	margin-left: 167px;
 	margin-top: 20px;
+	cursor: pointer;
 }
 
 .button4 {
@@ -159,6 +163,7 @@
 	color: white;
 	margin-left: 167px;
 	margin-top: 20px;
+	cursor: pointer;
 }
 
 hr {
@@ -200,6 +205,7 @@ hr {
 	border-radius: 8px;
 	margin-left: 144px;
 	margin-top: 90px;
+	cursor: pointer;
 }
 
 .im {
@@ -292,6 +298,7 @@ hr {
 	border-radius: 8px;
 	margin-left: 800px;
 	margin-top: 90px;
+	cursor: pointer;
 }
 
 .section1 {
@@ -358,4 +365,5 @@ hr {
 	border-radius: 8px;
 	margin-left: 800px;
 	margin-top: 90px;
+	cursor: pointer;
 }
